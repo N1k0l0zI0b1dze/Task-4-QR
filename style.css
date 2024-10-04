@@ -1,0 +1,44 @@
+body {
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  img {
+    width: 288px;
+    height: 288px;
+  }
+  
+  .container {
+    width: 320px;
+    height: 497px;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Outfit', sans-serif;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3, p {
+    text-align: center;
+  }
+  
+  h3 {
+    font-weight: 700;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  p {
+    font-weight: 400;
+    color: #666;
+    margin-top: 10px;
+  }
+  
